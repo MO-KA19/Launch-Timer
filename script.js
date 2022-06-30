@@ -1,7 +1,7 @@
 // The End Of The Year Date To Countdown To
 // 1000 milliseconds = 1 Second
 
-let countDate = new Date("jun 25, 2022 23:59:59").getTime()
+let countDate = new Date("Dec 24, 2022 23:59:59").getTime()
 const newLocal = "#time";
 let counter = setInterval(() => {
     //get date for now
